@@ -1,0 +1,10 @@
+---
+title: "Business analytics 101"
+author: "Balsher Singh"
+date: "May 23, 2017"
+output: html_document
+---
+
+## For this exercise we are using the data in the 'buss_ana.csv' file
+
+- 1. What is the correct mean and standard deviation of the quantity of pasta purchased by time unit by household?
