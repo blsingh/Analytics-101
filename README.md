@@ -1,3 +1,7 @@
-# R for Strategic Business Analytics
+# Data analytics Models
 
-## ESSEC Business School
+
+
+### Analytics Edge
+_________________
+**Logistic Regression models**
