@@ -2,6 +2,11 @@
 Balsher Singh  
 August 18, 2017  
 
+## Analytics methods with R.
+
+##### Analytics edge, MITx, course is relatively basic but it is still worth taking.  In addition there a more advanced Masters course, Introdction to Analyics Modeling, a GTx course which covers the Analytics modeling in more breadth, plus UMich's Data Science and Predictive analytics course.  The Materical from the las to courses is in the folders corresponding to their names. is still both of these courses are not with the Mathematical rigor of say Shalazi or Wasserman's ccourses that as of this date are still available online on .edu websites.
+
+### This Repo is deticated to my work in 3 coureses Analytics Edge, Introductin to Analytics Modeling (graduate) and UMich's Data Science and Predictive Analytics(graduate).
 
 
 # The Analytics Edge
