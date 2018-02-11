@@ -1,3 +1,6 @@
+
+## In the folders for each module are scripts, assignments, dataset, etc
+
 #### What are the different models for analytics and what **PACKAGES** are used in each.
 
 ####    # caTools :: for spliting data
