@@ -1,17 +1,11 @@
-# Analytics EDGE Exec Summary
-Balsher Singh  
-August 18, 2017  
+##### Starting with Analytics edge, MITx, course is relatively basic but it is still worth taking.  In addition there a more advanced Masters course, such as Introdction to Analyics Modeling, a GTx course which covers the Analytics modeling in more breadth, plus UMich's Data Science and Predictive analytics course.  Still both of these courses are not with the Mathematical rigor of say Shalazi or Wasserman's courses that as of this date are still available online on .edu websites.
 
-## Analytics methods with R.
-
-##### Analytics edge, MITx, course is relatively basic but it is still worth taking.  In addition there a more advanced Masters course, Introdction to Analyics Modeling, a GTx course which covers the Analytics modeling in more breadth, plus UMich's Data Science and Predictive analytics course.  The Materical from the las to courses is in the folders corresponding to their names. is still both of these courses are not with the Mathematical rigor of say Shalazi or Wasserman's ccourses that as of this date are still available online on .edu websites.
-
-### This Repo is deticated to my work in 3 coureses Analytics Edge, Introductin to Analytics Modeling (graduate) and UMich's Data Science and Predictive Analytics(graduate).
+### This Repo is deticated to my work from coureses in Analytics 
 _____
 _____
 
 # The Analytics Edge
-This course is taught based on R and is relatively easy. However, it is still worth taking because it is very practical and contains plenty of interesting data sets. Here I list some points that are new to me but extremely useful for future reference. I recommend this course to anyone who is interested in analytics.
+This course is taught based on R and is relatively easy. However, it is still worth taking because it is very practical and contains plenty of interesting data sets. Here I list some points, useful and for future reference. I recommend this course to anyone who is interested in analytics.
 
 
 ## An Introduction to Analytics
